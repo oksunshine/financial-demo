@@ -1,5 +1,5 @@
 # Financial Services Demo Bot
-This is a demo bot for financial services.
+This is a learning material folked demo bot for financial services.
 
 ## To install the dependencies:
 
